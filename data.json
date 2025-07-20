@@ -1,0 +1,42 @@
+[
+    {
+        "name": "ansh Singh",
+        "age": 18,
+        "email": "amsh@gmail.com",
+        "pin": 4567,
+        "accountNo.": "S$eX360",
+        "balance": 0
+    },
+    {
+        "name": "Aakash Kumar",
+        "age": 22,
+        "email": "akashsinghsenger321@gmail.com",
+        "pin": 9334,
+        "accountNo.": "2Wd1g&7",
+        "balance": 0
+    },
+    {
+        "name": "Saurabh Kumar",
+        "age": 23,
+        "email": "saurabh23@gmail.com",
+        "pin": 3344,
+        "accountNo.": "9^jS77H",
+        "balance": 0
+    },
+    {
+        "name": "Priyanshu ",
+        "age": 23,
+        "email": "priyanshuchhetri21@gmail.com",
+        "pin": 3344,
+        "accountNo.": "189#PQF",
+        "balance": 0
+    },
+    {
+        "name": "Aakash Kumar",
+        "age": 22,
+        "email": "akashsinghsenger321@gmail.com",
+        "pin": 7761,
+        "accountNo.": "101%xGK",
+        "balance": 1000
+    }
+]
